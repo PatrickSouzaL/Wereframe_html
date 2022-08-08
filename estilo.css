@@ -6,40 +6,41 @@
 }
 
 body {
-    background-color: #008a30;
+    background-color: #91B2F2;
 }
 
 header {
-    border: 2px solid #04BF45;
+    border: 2px solid black;
     margin: 0 auto;
     margin-top: 15px;
     height: 200px;
     width: 70%;
-    background-color: #F28705;
+    background-color: #021E73;
 }
 
 header section {
     margin-top: 20px;
     margin-left: 15px;
+    border: 2px solid black;
     float: left;
     height: 75%;
     width: 12%;
-    background-color: #F2F2F2;
+    background-color: #3049D9;
 }
 
 header nav {
-    border: 2px solid #04BF45;
+    border: 2px solid  black;
     margin-top: 10px;
     margin-right: 15px;
     float: right;
     height: 17%;
     width: 47.5%;
-    background-color: #F2F2F2;
+    background-color: #3049D9;
 }
 
 #juncao {
     margin-left: 100px;
-    background-color: #008a30;
+    background-color: #91B2F2;
     margin: 0 auto;
     margin-top: 15px;
     width: 70%;
@@ -47,19 +48,19 @@ header nav {
 }
 
 #bloco1 {
-    border: 2px solid #04BF45;
+    border: 2px solid black;
     float: left;
     margin: 0 auto;
-    background-color: #F2B705;
+    background-color: #021E73;
     width: 49.2%;
     height: 100%;
 }
 
 #bloco2 {
-    border: 2px solid #04BF45;
+    border: 2px solid black;
     float: right;
     margin: 0 auto;
-    background-color: #F2B705;
+    background-color: #021E73;
     width: 49.2%;
     height: 100%;
 }
@@ -69,27 +70,27 @@ main {
     margin-top: 15px;
     height: 500px;
     width: 70%;
-    background-color: #008a30;
+    background-color:#91B2F2;
 }
 
 /*----------------------------------------*/
 #left {
     display: inline-block;
-    background-color: #F28705;
-    width: 25%;
+    background-color:#0E1F40;
+    width: 28%;
     height: 100%;
 }
 
 #asidesectionleft1 {
     margin: 15px auto;
-    background-color: red;
+    background-color:#3049D9;
     width: 90%;
     height: 45%;
 }
 
 #asidesectionleft2 {
     margin: 15px auto;
-    background-color: red;
+    background-color: #3049D9;
     width: 90%;
     height: 45%;
 }
@@ -98,8 +99,8 @@ main {
 
 #right {
     display: inline-block;
-    background-color: #F28705;
-    width: 25%;
+    background-color: #0E1F40;
+    width: 28%;
     height: 100%
 }
 
@@ -110,61 +111,54 @@ main {
     margin-right: 10px;
     margin-left: 10px;
     display: inline-block;
-    background-color: #F28705;
-    width: 47.1%;
+    background-color: #0E1F40;
+    width: 459px;
     height: 100%;
 }
 
 
 .blocosmid{
     margin: 12px auto;
-    background-color: red;
+    background-color:  #0E1F40;
     width: 95%;
     height: 30%;
 }
 
-/*
-#blocosmid1{
-    margin-top: 15px;
-    margin-left: 15px;
+
+
+
+
+#sectionmid1{
     float:left;
-    background-color: red;
-    width: 46%;
-    height: 30%;
+    background-color: #3049D9;
+    width: 48%;
+    height: 100%;
 }
 
-#blocosmid2 {    
-    margin-top:15px;
-    margin-right: 15px;
+#sectionmid2 {    
     float:right;
-    background-color: red;
-    width: 46%;
-    height: 30%;
+    background-color: #3049D9;
+    width: 48%;
+    height: 100%;
 }
-#blocosmid3 {
-    margin-top: 183px;
-    margin-left:15px;
-    background-color: red;
-    width: 95%;
-    height: 26%;
+#sectionmid3 {
+    background-color: #3049D9;
+    width: 100%;
+    height: 100%;
 }
-#blocosmid4 {
+#sectionmid4 {
     float:left;
-    margin-left: 15px;
-    margin-top: 18px;
-    background-color: red;
-    width: 46%;
-    height: 30%;
+    background-color: #3049D9;
+    width: 48%;
+    height: 100%;
 }
-#blocosmid5{
+#sectionmid5{
     float:right;
-    margin-top: 18px;
-    margin-right: 15px;
-    background-color: red;
-    width: 46%;
-    height: 30%;
+    background-color: #3049D9;
+    width: 48%;
+    height: 100%;
 }
-*/
+
 
 
 /*----------------------------------------*/
@@ -174,5 +168,5 @@ footer {
     margin-top: 15px;
     height: 120px;
     width: 100%;
-    background-color: #F2B705;
+    background-color: #0E1F40;
 }
